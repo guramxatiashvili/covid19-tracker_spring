@@ -10,7 +10,6 @@ public class CovidTrackerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CovidTrackerApplication.class, args);
-		System.setProperty("java.version", "12.0.2");
 	}
 
 }
