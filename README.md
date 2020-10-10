@@ -2,6 +2,7 @@
 This is a Covid-19 tracker application,which i builded for fun during this pandemic.
 
 It tracks total number of cases accross the globe and new cases since previous date.
+
 DEMO > https://covid-19-gurami.herokuapp.com/
 
 Data source used for this project - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE 
