@@ -15,3 +15,8 @@ DISCLAIMERS AND FUTURE WORK
 --Test cases has to be written
 
 --Data validity/accuracy depends on the source
+Couple of features which should be implemented : 
+
+-- Search for a specific country
+
+-- Sort countrie descending based on the number of cases
